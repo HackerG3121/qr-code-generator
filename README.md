@@ -51,7 +51,7 @@ python qr_generator.py
 pkg update
 pkg install python
 pip install -r requirements.txt
-python src/qr_generator.py
+python qr_generator.py
 ```
 
 ## Example
@@ -80,7 +80,7 @@ H = 30%
 Choose [default: M]: M
 
 QR Code saved successfully!
-File: qr.png
+File: github.png
 ```
 
 ## Error Correction
